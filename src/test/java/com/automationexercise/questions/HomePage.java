@@ -1,6 +1,5 @@
 package com.automationexercise.questions;
 
-import com.automationexercise.ui.CheckoutPageUI;
 import com.automationexercise.ui.HomePageUI;
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Question;
